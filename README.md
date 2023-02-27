@@ -12,6 +12,8 @@ This repository includes the personal note for papers and courses related to sci
 
 Scientific machine learning (SML), Dynamical system, Numerical analysis, AI for science
 
+​						<img src="assets/image-20230227153205286.png" alt="image-20230227153205286" style="zoom:20%;" />	$\Longrightarrow$	<img src="assets/image-20230227153133063.png" alt="image-20230227153133063" style="zoom:25%;" />     				
+
 # 2 课程笔记 (个人) | Course notes (Personal)
 
 | Period        | Course                                                       | Note                                                         | Implementation                                               | Status      |
